@@ -1,0 +1,24 @@
+---
+object_type: instance
+version: 1.0
+object:
+  attributes:
+    display_name:
+    name: 172.20.22.229
+    inherits:
+    description:
+  fields:
+  - vlan:
+      value: VM Network
+  - hostname:
+      value:
+  - ipaddr:
+      value: 172.20.22.229
+  - submask:
+      value: 255.255.255.0
+  - gateway:
+      value: 172.20.22.5
+  - inuse:
+      value: 'false'
+  - date_released:
+      value: 
